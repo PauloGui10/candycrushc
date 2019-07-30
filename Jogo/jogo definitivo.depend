@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1481507348 source:c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"jogo.h"
+	"funcjogo.h"
+	"menu principal.h"
+
+1481517935 c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\menu principal.h
+
+1481517795 source:c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\menu principal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"jogo.h"
+	"funcjogo.h"
+
+1481554527 source:c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\funcjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"jogo.h"
+
+1481559143 c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\jogo.h
+
+1481515224 c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\funcjogo.h
+
+1481988682 source:c:\users\paulo guilherme\desktop\nova pasta\jogo definitivo\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"funcjogo.h"
+
